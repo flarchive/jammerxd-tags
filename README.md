@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of jammerxd/tags.** Not for installation: use [Packagist](https://packagist.org/packages/jammerxd/tags) or the [upstream repository](https://github.com/jammerxd/tags).
 
-**0** versions archived · Latest: [`v0.1.2-beta13`](https://github.com/flarchive/jammerxd-tags/tree/archive/v0.1.2-beta13) · License: `MIT` · Flarum: `^0.1.0-beta.13`
+**2** versions archived · Latest: [`v0.1.2-beta13`](https://github.com/flarchive/jammerxd-tags/tree/archive/v0.1.2-beta13) · License: `MIT` · Flarum: `^0.1.0-beta.13`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.1-beta13` | 2020-09-12 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/jammerxd-tags/tree/archive/v0.1.1-beta13) |
+| `v0.1.2-beta13` | 2020-09-12 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/jammerxd-tags/tree/archive/v0.1.2-beta13) |
 
 Catalog entry: [packages/jammerxd-tags.json](https://github.com/flarchive/archive-index/blob/main/packages/jammerxd-tags.json)
 
